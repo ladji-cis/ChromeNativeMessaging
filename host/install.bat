@@ -1,0 +1,1 @@
+REG ADD "HKCU\Software\Google\Chrome\NativeMessagingHosts\com.google.chrome.example.echo" /ve /t REG_SZ /d "C:\\_Dev\\Chromium\host\\manifest-host.json" /f
